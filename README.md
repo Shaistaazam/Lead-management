@@ -4,6 +4,22 @@ A complete Lead Management module built with React + Vite, matching the requirem
 (`Assesment_requirement.xlsx`) mockups: Leads list, Add/Edit Lead form, Lead Details with
 Practice Info + Communication tabs.
 
+## 🚀 Live Demo
+
+**Deployed on Vercel:** [View Live Application](https://lead-management-shaistaazam.vercel.app)
+
+## ✨ Features
+
+- ✅ Complete CRUD Operations (Create, Read, Update, Delete)
+- ✅ Add/Edit Lead Form with Validation
+- ✅ Advanced Filtering (10+ filter options)
+- ✅ Lead Details with Practice Info & Communication Tabs
+- ✅ Communication Notes Management
+- ✅ Data Persistence (localStorage)
+- ✅ Responsive Design
+- ✅ Export to CSV
+- ✅ Pagination & Sorting
+
 ## Getting started
 
 ```bash
